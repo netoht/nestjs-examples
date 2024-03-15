@@ -37,8 +37,9 @@
 
 - `NEST_DEBUG`: get extra dependency resolution logs during startup
 
-# Extras
+# Extras: Patterns
 
+- `Awesome Software Architecture`: https://awesome-architecture.com/
 - `Unit of Work Pattern`: https://github.com/netoht/nestjs-typeorm-transaction-unitOfWork-AsyncLocalStorage
 - `Transactional Outbox and Inbox Pattern`: https://softwaremill.com/microservices-101/
 - `AWS: Cloud design patterns, architectures, and implementations`: https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/introduction.html
