@@ -39,4 +39,4 @@
 
 # Extras
 
-- `Unit of Work Pattern`: https://github.dev/LuanMaik/nestjs-typeorm-transaction-unitOfWork-AsyncLocalStorage
+- `Unit of Work Pattern`: https://github.com/netoht/nestjs-typeorm-transaction-unitOfWork-AsyncLocalStorage
