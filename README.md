@@ -36,3 +36,7 @@
 ## Environment variables:
 
 - `NEST_DEBUG`: get extra dependency resolution logs during startup
+
+# Extras
+
+- `Unit of Work Pattern`: https://github.dev/LuanMaik/nestjs-typeorm-transaction-unitOfWork-AsyncLocalStorage
